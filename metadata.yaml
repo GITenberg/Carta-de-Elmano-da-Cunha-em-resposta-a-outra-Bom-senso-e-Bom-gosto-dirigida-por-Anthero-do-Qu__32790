@@ -1,0 +1,29 @@
+_repo: Carta-de-Elmano-da-Cunha-em-resposta-a-outra-Bom-senso-e-Bom-gosto-dirigida-por-Anthero-do-Qu__32790
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cunha, Elmano da
+    gutenberg_agent_id: '36048'
+    url: http://www.gutenberg.org/2009/agents/36048
+description: ''
+gutenberg_issued: '2010-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32790'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quental, Antero de, 1842-1891'
+- !lcsh 'Castilho, Antonio Feliciano de, 1800-1875'
+- !lcsh 'Portuguese literature -- 19th century -- History and criticism'
+- !lcc 'PQ'
+title: Carta de Elmano da Cunha em resposta a outra Bom-senso e Bom-gosto, dirigida
+  por Anthero do Quental ao excellentissimo senhor Antonio Feliciano de Castilho,
+  o incomparavel traductor dos fastos de Ovidio, obra em que se faz o confronto de
+  Romulo e Jesus-Christo, offericida ao incomparavel duque de Saldanha
+url: http://www.gutenberg.org/ebooks/32790
