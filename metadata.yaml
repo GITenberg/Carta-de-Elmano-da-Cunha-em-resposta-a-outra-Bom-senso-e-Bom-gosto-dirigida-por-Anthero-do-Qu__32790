@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36048'
     url: http://www.gutenberg.org/2009/agents/36048
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32790#Carta-de-Elmano-da-Cunha-em-resposta-a-outra-Bom-senso-e-Bom-gosto-dirigida-por-Anthero-do-Qu_
 gutenberg_issued: '2010-06-13'
 gutenberg_type: Text
 identifiers:
